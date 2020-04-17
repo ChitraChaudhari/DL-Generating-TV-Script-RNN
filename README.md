@@ -2,7 +2,19 @@
 
 ## Introduction
 
-This repository contains the project, where you can generate your own Seinfeld TV scripts using RNNs. I used a Seinfeld dataset of scripts from 9 seasons. The Neural Network build will generate a new, "fake" TV script. Here's the sample output generated 
+This repository contains the project, where you can generate your own Seinfeld TV scripts using RNNs. I used a Seinfeld dataset of scripts from 9 seasons. The Neural Network build will generate a new, "fake" TV script. 
+
+## Steps involved
+
+- Creating Lookup table
+- Batching the data
+- Building the Network
+- Setting hyperparameters
+- Training the model
+- Generating Text
+
+## Here's the sample output generated 
+
 '''
 jerry: if its their annual terrorist luncheon.
 
@@ -46,14 +58,6 @@ helen: goodbye, jerry.
 
 jerry: take care.
 '''
-
-Steps involved
-Creating Lookup table
-Batching the data
-Building the Network
-Setting hyperparameters
-Training the model
-Generating Text
 
 ## Project Instructions
 
