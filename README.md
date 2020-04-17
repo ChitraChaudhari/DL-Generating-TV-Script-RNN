@@ -15,49 +15,29 @@ This repository contains the project, where you can generate your own Seinfeld T
 
 ## Here's the sample output generated 
 
-'''
+```
 jerry: if its their annual terrorist luncheon.
-
 joel:...
-
 helen: you know, you cant be so particular. nobodys perfect.
-
 jerry: i know, im sorry...
-
 jerry: i have other stuff. y- you should come see me on, are the people call the police. so now i have a decision do i walk or do i eat?
-
 jerry: hm. you ate.
-
 george: we sat there for twenty minutes, chewing, staring at each other in a defunct relationship.
-
 jerry: someone says, go, uh, let me get this spatula... and im not gonna do it.
-
 jerry:(laughing) really? what a shock.
-
 helen: goodbye, jerry.
-
 jerry: take care.
-
 helen: well call you.
-
 morty: bye, jer.
-
 jerry: bye, dad. take it easy.
-
 morty: bye, mr. kramer.
-
 kramer: yeah. so long, morty.
-
 jerry: so, when do i get my dinner?
-
 kramer: theres no dinner. the bets off. im not gonna do it.
-
 jerry:(laughing) really? what a shock.
-
 helen: goodbye, jerry.
-
 jerry: take care.
-'''
+```
 
 ## Project Instructions
 
